@@ -1,0 +1,427 @@
+vertices:
+  - id: 0
+  - id: 1
+  - id: 2
+  - id: 3
+  - id: 4
+  - id: 5
+  - id: 6
+  - id: 7
+  - id: 8
+  - id: 9
+  - id: 10
+  - id: 11
+  - id: 12
+  - id: 13
+  - id: 14
+  - id: 15
+  - id: 16
+edges:
+  - source: 0
+    target: 1
+    distance: 0.816973092479119
+  - source: 0
+    target: 2
+    distance: 1.570847701680429
+  - source: 0
+    target: 3
+    distance: 1.962049449862555
+  - source: 0
+    target: 4
+    distance: 2.711254983545019
+  - source: 0
+    target: 5
+    distance: 3.281204806630352
+  - source: 0
+    target: 6
+    distance: 3.682212200823674
+  - source: 0
+    target: 7
+    distance: 3.993203557200157
+  - source: 0
+    target: 8
+    distance: 3.935145993698344
+  - source: 0
+    target: 9
+    distance: 3.427745777724731
+  - source: 0
+    target: 10
+    distance: 2.805817221932076
+  - source: 0
+    target: 11
+    distance: 1.629357620256269
+  - source: 0
+    target: 12
+    distance: 0.6584367621675413
+  - source: 0
+    target: 13
+    distance: 1.343441003662839
+  - source: 0
+    target: 14
+    distance: 1.864913603263157
+  - source: 0
+    target: 15
+    distance: 2.401012167550401
+  - source: 0
+    target: 16
+    distance: 2.77091154447575
+  - source: 1
+    target: 2
+    distance: 0.7949694064658024
+  - source: 1
+    target: 3
+    distance: 1.223846387525257
+  - source: 1
+    target: 4
+    distance: 2.055363846292137
+  - source: 1
+    target: 5
+    distance: 2.713497286560071
+  - source: 1
+    target: 6
+    distance: 3.350413747838295
+  - source: 1
+    target: 7
+    distance: 3.882903916202448
+  - source: 1
+    target: 8
+    distance: 4.111223016582509
+  - source: 1
+    target: 9
+    distance: 3.730940189179239
+  - source: 1
+    target: 10
+    distance: 3.292184834677859
+  - source: 1
+    target: 11
+    distance: 2.356123097990288
+  - source: 1
+    target: 12
+    distance: 1.440076403093994
+  - source: 1
+    target: 13
+    distance: 1.207725028583394
+  - source: 1
+    target: 14
+    distance: 2.193281079847999
+  - source: 1
+    target: 15
+    distance: 2.137119538805977
+  - source: 1
+    target: 16
+    distance: 2.819268474513677
+  - source: 2
+    target: 3
+    distance: 0.4440131399231088
+  - source: 2
+    target: 4
+    distance: 1.315802222889641
+  - source: 2
+    target: 5
+    distance: 2.028859411768715
+  - source: 2
+    target: 6
+    distance: 2.860120234534973
+  - source: 2
+    target: 7
+    distance: 3.582498696702739
+  - source: 2
+    target: 8
+    distance: 4.079275081709734
+  - source: 2
+    target: 9
+    distance: 3.839189245766498
+  - source: 2
+    target: 10
+    distance: 3.600260710380284
+  - source: 2
+    target: 11
+    distance: 2.946624537701344
+  - source: 2
+    target: 12
+    distance: 2.128322953699595
+  - source: 2
+    target: 13
+    distance: 1.242221287978334
+  - source: 2
+    target: 14
+    distance: 2.434587205647947
+  - source: 2
+    target: 15
+    distance: 1.807373416644991
+  - source: 2
+    target: 16
+    distance: 2.735260349149161
+  - source: 3
+    target: 4
+    distance: 0.8790624408252116
+  - source: 3
+    target: 5
+    distance: 1.609899041216638
+  - source: 3
+    target: 6
+    distance: 2.531908212304176
+  - source: 3
+    target: 7
+    distance: 3.346767525075237
+  - source: 3
+    target: 8
+    distance: 3.984200019753051
+  - source: 3
+    target: 9
+    distance: 3.826554510371767
+  - source: 3
+    target: 10
+    distance: 3.703797518969071
+  - source: 3
+    target: 11
+    distance: 3.220384820715695
+  - source: 3
+    target: 12
+    distance: 2.472376469077266
+  - source: 3
+    target: 13
+    distance: 1.337789582605462
+  - source: 3
+    target: 14
+    distance: 2.535944338287416
+  - source: 3
+    target: 15
+    distance: 1.615379942457523
+  - source: 3
+    target: 16
+    distance: 2.643475839584942
+  - source: 4
+    target: 5
+    distance: 0.7546770566717246
+  - source: 4
+    target: 6
+    distance: 1.856151127666713
+  - source: 4
+    target: 7
+    distance: 2.839833091398304
+  - source: 4
+    target: 8
+    distance: 3.744760679439539
+  - source: 4
+    target: 9
+    distance: 3.758581865225215
+  - source: 4
+    target: 10
+    distance: 3.867622309067919
+  - source: 4
+    target: 11
+    distance: 3.721081746706842
+  - source: 4
+    target: 12
+    distance: 3.124436033608378
+  - source: 4
+    target: 13
+    distance: 1.714196600976128
+  - source: 4
+    target: 14
+    distance: 2.761087566082712
+  - source: 4
+    target: 15
+    distance: 1.378779638530809
+  - source: 4
+    target: 16
+    distance: 2.484353446541121
+  - source: 5
+    target: 6
+    distance: 1.242657626943877
+  - source: 5
+    target: 7
+    distance: 2.335224775655805
+  - source: 5
+    target: 8
+    distance: 3.441742737586281
+  - source: 5
+    target: 9
+    distance: 3.60519115316117
+  - source: 5
+    target: 10
+    distance: 3.908943159727153
+  - source: 5
+    target: 11
+    distance: 4.051394828154465
+  - source: 5
+    target: 12
+    distance: 3.600796559125818
+  - source: 5
+    target: 13
+    distance: 2.095466544555401
+  - source: 5
+    target: 14
+    distance: 2.915500710020017
+  - source: 5
+    target: 15
+    distance: 1.350091941575106
+  - source: 5
+    target: 16
+    distance: 2.333505266285456
+  - source: 6
+    target: 7
+    distance: 1.130877400892687
+  - source: 6
+    target: 8
+    distance: 2.404512239871967
+  - source: 6
+    target: 9
+    distance: 2.758662418395232
+  - source: 6
+    target: 10
+    distance: 3.331962281145286
+  - source: 6
+    target: 11
+    distance: 3.94180735894273
+  - source: 6
+    target: 12
+    distance: 3.792697627321105
+  - source: 6
+    target: 13
+    distance: 2.340650471942156
+  - source: 6
+    target: 14
+    distance: 2.629660274795332
+  - source: 6
+    target: 15
+    distance: 1.283669580743909
+  - source: 6
+    target: 16
+    distance: 1.650855804979571
+  - source: 7
+    target: 8
+    distance: 1.399036537595356
+  - source: 7
+    target: 9
+    distance: 1.948055446877498
+  - source: 7
+    target: 10
+    distance: 2.760339557785281
+  - source: 7
+    target: 11
+    distance: 3.774993641147376
+  - source: 7
+    target: 12
+    distance: 3.91362141069471
+  - source: 7
+    target: 13
+    distance: 2.708276036347129
+  - source: 7
+    target: 14
+    distance: 2.462273038387359
+  - source: 7
+    target: 15
+    distance: 1.780016193928322
+  - source: 7
+    target: 16
+    distance: 1.319841987313169
+  - source: 8
+    target: 9
+    distance: 0.7618382696381816
+  - source: 8
+    target: 10
+    distance: 1.758125118109075
+  - source: 8
+    target: 11
+    distance: 3.150400885639195
+  - source: 8
+    target: 12
+    distance: 3.629753079144568
+  - source: 8
+    target: 13
+    distance: 2.923141391027498
+  - source: 8
+    target: 14
+    distance: 2.08902359975577
+  - source: 8
+    target: 15
+    distance: 2.405337712766732
+  - source: 8
+    target: 16
+    distance: 1.345527448047496
+  - source: 9
+    target: 10
+    distance: 1.000664879108803
+  - source: 9
+    target: 11
+    distance: 2.45171075635894
+  - source: 9
+    target: 12
+    distance: 3.038230417969463
+  - source: 9
+    target: 13
+    distance: 2.612692959984818
+  - source: 9
+    target: 14
+    distance: 1.568275504337828
+  - source: 9
+    target: 15
+    distance: 2.379969240062429
+  - source: 9
+    target: 16
+    distance: 1.282929259328382
+  - source: 10
+    target: 11
+    distance: 1.537417177969822
+  - source: 10
+    target: 12
+    distance: 2.294768978619554
+  - source: 10
+    target: 13
+    distance: 2.374225261154741
+  - source: 10
+    target: 14
+    distance: 1.169874438229887
+  - source: 10
+    target: 15
+    distance: 2.567538937907794
+  - source: 10
+    target: 16
+    distance: 1.682889746919411
+  - source: 11
+    target: 12
+    distance: 0.9812696032075381
+  - source: 11
+    target: 13
+    distance: 2.007262331072388
+  - source: 11
+    target: 14
+    distance: 1.333886918116842
+  - source: 11
+    target: 15
+    distance: 2.787505646375485
+  - source: 11
+    target: 16
+    distance: 2.465299082108335
+  - source: 12
+    target: 13
+    distance: 1.51889922627963
+  - source: 12
+    target: 14
+    distance: 1.550267381021834
+  - source: 12
+    target: 15
+    distance: 2.523842765299303
+  - source: 12
+    target: 16
+    distance: 2.617018621724217
+  - source: 13
+    target: 14
+    distance: 1.204352755255813
+  - source: 13
+    target: 15
+    distance: 1.057932698854949
+  - source: 13
+    target: 16
+    distance: 1.613362027669571
+  - source: 14
+    target: 15
+    distance: 1.575861334134634
+  - source: 14
+    target: 16
+    distance: 1.143150624417726
+  - source: 15
+    target: 16
+    distance: 1.107627940231376
